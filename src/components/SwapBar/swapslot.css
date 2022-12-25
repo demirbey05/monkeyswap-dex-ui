@@ -1,0 +1,19 @@
+.swapslot input {
+  color: #2e3750;
+  min-width: 12em;
+  border: 0;
+  width: 100%;
+  height: 100%;
+  font-size: 30px;
+}
+
+.swapslot {
+  width: 400px;
+  height: 120px;
+  border-radius: 10px;
+  border: 2px solid #85586f;
+  padding-bottom: 4px;
+  padding-left: 4px;
+  padding-top: 4px;
+  padding-right: 4px;
+}
