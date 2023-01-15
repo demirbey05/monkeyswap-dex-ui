@@ -2,7 +2,6 @@ import "./App.css";
 import SwapBar from "./components/SwapBar/SwapBar";
 
 import { Navbar } from "./components";
-import FiatOnramper from "./components/FiatOnramper";
 
 function App() {
   return (
