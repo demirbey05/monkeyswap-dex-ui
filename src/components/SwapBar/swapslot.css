@@ -1,13 +1,16 @@
 .swapslot input {
   color: #2e3750;
-  min-width: 12em;
+  min-width: 6em;
   border: 0;
-  width: 100%;
+  border-radius: 3%;
+  width: 75%;
   height: 100%;
   font-size: 30px;
+  background-color: rgba(240, 246, 238, 1);
 }
 
 .swapslot {
+  background: linear-gradient(to bottom right, #ef4765, #ff9a5a);
   width: 400px;
   height: 120px;
   border-radius: 10px;

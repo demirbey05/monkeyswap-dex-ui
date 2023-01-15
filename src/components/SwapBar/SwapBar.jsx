@@ -1,4 +1,5 @@
 import SwapSlot from "./SwapSlot";
+
 import "./swapbar.css";
 
 export default function SwapBar() {
