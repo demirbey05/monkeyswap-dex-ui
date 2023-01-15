@@ -1,5 +1,7 @@
 import "./swapslot.css";
 
+import UniswapDropdown from "./UniswapDropdown";
+
 export default function SwapSlot({ slotValue, onChange }) {
   console.log(slotValue);
 
@@ -15,6 +17,8 @@ export default function SwapSlot({ slotValue, onChange }) {
   return (
     <span className="swapslot">
       <input value={slotValue} type="text" onChange={handleChange}></input>
+      <UniswapDropdown/>
     </span>
+    
   );
 }
